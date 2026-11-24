@@ -3,6 +3,7 @@
 num1 = input("Introduce un número: ")
 num2 = input("\nIntroduce otro número: ")
 
+
 print("\nSuma")
 suma = num1 + num2
 print(f"\nResultado suma: {suma}")
