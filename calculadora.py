@@ -18,4 +18,8 @@ print(f"\nResultado multiplicación: {mult}")
 
 print("\nDivisión")
 div = num1 / num2
-print(f"\nResultado resta: {div}")
+print(f"\nResultado división: {div}")
+
+print("\nPorcentaje")
+porcentaje = num1 % num2
+print(f"\nResultado porcentaje: {porcentaje}")
