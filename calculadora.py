@@ -12,3 +12,10 @@ print("\nResta")
 resta = num1 - num2
 print(f"\nResultado resta: {resta}")
 
+print("\nMultiplicación")
+mult = num1 * num2
+print(f"\nResultado multiplicación: {mult}")
+
+print("\nDivisión")
+div = num1 / num2
+print(f"\nResultado resta: {div}")
